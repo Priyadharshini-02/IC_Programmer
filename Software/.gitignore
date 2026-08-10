@@ -1,0 +1,6 @@
+*.pt
+*.pth
+**/bld/
+**/Debug/
+**/Release/
+**/.vs/
